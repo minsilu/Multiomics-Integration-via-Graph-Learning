@@ -11,9 +11,7 @@ Course project of Computational Biology.
 ## Dependency
 `pip install torch-scatter`
 
-## run codes
-
-
+## Run codes
 `python setup.py develop  # Build scglue`
 
 `python data_preprocessing.py`
